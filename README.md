@@ -114,8 +114,62 @@ https://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155
 
 ### Reflection
 So far I think this is the hardest part of the design. 
+I am making alot of progress in engineering.
 
 ---
+
+
+
+## AxleCollarBearings
+
+### Description
+Axle diameter is 10 mm outer diameter and 6mm inner diameter 
+Barring is 15mm diameter, 5mm thickness
+### Evidence
+https://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155e3fb31c674d9338/e/53e6b96f0ea795415988c2b6
+
+### Image
+![Screenshot 2020-11-05 at 10 24 30 PM](https://user-images.githubusercontent.com/73791314/98322559-b3bd4780-1fb5-11eb-8592-bf0f0aeecfbe.png)
+### Reflection
+I learned that to extrude in both directions, you have to push the symmetrical button
+You can make two parts and then put them together in the same parts studio.
+Productivity: I am doing alot of work on my engineering this week
+
+
+
+## Sub-Assymbly
+
+### Description
+Assymbly of the tire and wheel with the axle and two bearings.
+
+### Evidence
+https://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155e3fb31c674d9338/e/ea27402debc9888d01c78e5a
+
+### Image
+
+![Screenshot 2020-11-06 at 12 24 19 AM](https://user-images.githubusercontent.com/73791314/98329571-82994300-1fc6-11eb-9019-bd8168be08eb.png)
+### Reflection
+Sub assymbly allows you to put it together in the way that it would actually be assembled.
+I feel that I am getting better with on shape. THe most confusing things is how to share the work to github.
+I feel that I am being productive this week in engineering.             
+
+
+
+
+## Assymbly
+
+### Description- 
+Assebly of the tire-wheel-axle-bearings to the fork,mount and base to complete the caster. 
+
+### Evidence
+https://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155e3fb31c674d9338/e/ea27402debc9888d01c78e5a
+
+### Image
+![Screenshot 2020-11-06 at 12 19 22 AM](https://user-images.githubusercontent.com/73791314/98329248-c770aa00-1fc5-11eb-989c-bedb100e1b54.png)
+
+### Reflection
+Its cool to see all of the parts come together to make the caster.
+I feel that I am being productive this week in engineering.             
 
 
 
