@@ -127,7 +127,7 @@ Assymbly of he tire and wheel with the axyl and two bearings.
 https://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155e3fb31c674d9338/e/ea27402debc9888d01c78e5a
 
 ### Image
-
+file:///home/chronos/u-56e81bc15af18778fba5fba9b88ec666dc380e22/MyFiles/Downloads/Screenshot%202020-11-05%20at%2011.28.03%20PM.png
 
 ### Reflection
 
@@ -144,7 +144,7 @@ Assymbly of the tire-wheel-axle-bearings to the fork,mount and base to complete 
 https://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155e3fb31c674d9338/e/ea27402debc9888d01c78e5a
 
 ### Image
-
+![Screenshot 2020-11-06 at 12 19 22 AM](https://user-images.githubusercontent.com/73791314/98329248-c770aa00-1fc5-11eb-989c-bedb100e1b54.png)
 
 ### Reflection
 
