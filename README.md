@@ -1,2 +1,1 @@
-# notebookforcaster
-notebook for caster
+NOtEBOOK FOR NICHOLAS TAYLOR
