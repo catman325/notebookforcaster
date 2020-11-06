@@ -15,6 +15,8 @@ We are creating a caster.
 ## Base
 
 ### Description
+The base is a rectangle with the  dimensions of 200 mm x 120 mm and 8 mm thick. 
+It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
 
 
 ### Evidence
@@ -22,20 +24,17 @@ We are creating a caster.
 https://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155e3fb31c674d9338/e/8839806c7f84e6ad754c58c5
 ### Image
 
-<img src="images/Base.jpg" alt="The Base" width="200">
-
 ![Screenshot 2020-11-05 at 10 18 48 PM](https://user-images.githubusercontent.com/73791314/98322211-e7e43880-1fb4-11eb-92c7-939613c9bd6c.png)
 
 ### Reflection
 
-This was my first Onshape part and [following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4)  I learned about 
-* sketching (shortcut **shift-s**)
-* constructions lines (shortcut **Q**)
-* dimensions (shortcut **D**)
-* extruding both add and remove (shortcut key **E**)
-* linear patterns (no shortcut)
+I learned:
+*Hit spacebar to clear your selections
+*Hit N to straighten out your view, "normal" to your sketch
+*inear patterns 
+I think github is hard to use
+I made alot of progress this week in engineering.
 
-Onshape is awesome.  I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
 
 ---
 
@@ -43,6 +42,9 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Mount
 
 ### Description
+Is a 120mm x120mm rectangle, centered on the origin.
+Has 4 symmetric holes in the corners, 10mm in diameter, 20mm from each side (and therefore, 80mm from each other)
+Has another 25 mm circle in the center of the square.
 
 ### Evidence
 https://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155e3fb31c674d9338/e/e0fde112374c16976ad0dc27
@@ -70,6 +72,8 @@ https://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155
 ![Screenshot 2020-11-05 at 10 15 33 PM](https://user-images.githubusercontent.com/73791314/98322024-77d5b280-1fb4-11eb-9766-29f658121a43.png)
 ### Reflection
 
+I learned that filet will round edges.
+Productivity: I am doing alot of work on my engineering this week
 ---
 
 
@@ -115,6 +119,8 @@ https://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155
 ### Image
 ![Screenshot 2020-11-05 at 10 24 30 PM](https://user-images.githubusercontent.com/73791314/98322559-b3bd4780-1fb5-11eb-8592-bf0f0aeecfbe.png)
 ### Reflection
+I learned that to extrude in both directions, you have to push the symmetrical button
+Productivity: I am doing alot of work on my engineering this week
 
 
 
