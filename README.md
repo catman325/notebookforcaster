@@ -121,14 +121,14 @@ https://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155
 ## Sub-Assymbly
 
 ### Description
-Assymbly of he tire and wheel with the axyl and two bearings.
+Assymbly of the tire and wheel with the axyl and two bearings.
 
 ### Evidence
 https://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155e3fb31c674d9338/e/ea27402debc9888d01c78e5a
 
 ### Image
-file:///home/chronos/u-56e81bc15af18778fba5fba9b88ec666dc380e22/MyFiles/Downloads/Screenshot%202020-11-05%20at%2011.28.03%20PM.png
 
+![Screenshot 2020-11-06 at 12 24 19 AM](https://user-images.githubusercontent.com/73791314/98329571-82994300-1fc6-11eb-9019-bd8168be08eb.png)
 ### Reflection
 
 
