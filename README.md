@@ -149,14 +149,15 @@ https://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155
 
 ![Screenshot 2020-11-06 at 12 24 19 AM](https://user-images.githubusercontent.com/73791314/98329571-82994300-1fc6-11eb-9019-bd8168be08eb.png)
 ### Reflection
-Sub assymbly allows you to put it together in the way that it would actually be assembled.
+Sub assembly allows you to put it together in the way that it would actually be assembled.
+You can use the assembly tab instead of the parts studio tab and drop parts in to put the parts together.
 I feel that I am getting better with on shape. THe most confusing things is how to share the work to github.
 I feel that I am being productive this week in engineering.             
 
 
 
 
-## Assymbly
+## Assembly
 
 ### Description- 
 Assebly of the tire-wheel-axle-bearings to the fork,mount and base to complete the caster. 
@@ -169,6 +170,7 @@ https://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155
 
 ### Reflection
 Its cool to see all of the parts come together to make the caster.
+
 I feel that I am being productive this week in engineering.             
 
 
