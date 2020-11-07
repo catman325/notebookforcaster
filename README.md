@@ -137,7 +137,7 @@ Productivity: I am doing alot of work on my engineering this week
 
 
 
-## Sub-Assymbly
+## Sub-Assembly
 
 ### Description
 Assymbly of the tire and wheel with the axle and two bearings.
@@ -175,12 +175,72 @@ I feel that I am being productive this week in engineering.
 
 
 
+## Dorothy's Dowel Pins
+
+### Description- 
+Dowel pens that are the combination of four different lengths and four different diameters for a total of 16 combinations
+The lengths are 1/2 in, 1 in, 1 1/2 in, 2 in. 
+The diameters are 1/4 in, 3/8 in, 1/2 in, 5/8 in. 
+
+### Evidence
+https://cvilleschools.onshape.com/documents/20cd487b7e032482cb86c250/w/9a3b262f7877daa20d81c710/e/0c49abf9152a16d01e1499d5
+
+### Image
+![Screenshot 2020-11-06 at 11 20 36 PM](https://user-images.githubusercontent.com/73791314/98431810-bb98ec80-2086-11eb-8fb2-01a9bd2a7b50.png)
+
+
+### Reflection
+I learned how to create configuations in a step. 
+
+
+
+## Onshape Fundamentals:Assemblies
+
+### Description- 
+The movie was about to assemble, and mate parts in onshape.
+Described how to use the assembly tab.
+Described how to import parts and manipulate parts.
+
+### Evidence
+https://learn.onshape.com/learn/course/fundamentals-onshape-assemblies/working-with-an-assembly/assembly-structure
+
+### Image
+![Screenshot 2020-11-06 at 11 26 12 PM](https://user-images.githubusercontent.com/73791314/98431900-880a9200-2087-11eb-8c68-00eb828477cb.png)
+
+### Reflection
+I learned that inserting parts into an assembly that that own explicit mate connectors, also in sert mate connectors into the assembly. 
+I learned that you should fix the first part that is imported in. 
+I learned how to make slot mates and the easiest way to do so. 
 
 
 
 
+## 
+
+### Description- 
+
+### Evidence
 
 
+### Image
+
+
+
+### Reflection
+
+
+## 
+
+### Description- 
+
+### Evidence
+
+
+### Image
+
+
+
+### Reflection
 
 
 
